@@ -1,7 +1,7 @@
 # README
 
 ## Descripción
-Pruebas desarrollo para proceso de selección.
+Pruebas desarrollo Python para proceso de selección.
 
 ## Requisitos
 
